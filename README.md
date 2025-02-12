@@ -17,7 +17,7 @@
   - A Copy of bash, also make with [DailyWind](https://github.com/DailyWind00)
 - [ft_transcendence](https://github.com/DailyWind00/ft_transcendence)
   - a Pong web app, made by 6, in which I developed the frontend.
-- [SnowCrash](https://github.com/DailyWind00/ft_transcendence)
+- [SnowCrash](https://github.com/tuvosyl/snow-crash)
   - very fun cybersecurity CTF project
  
 ## 📞 My contact
