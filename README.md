@@ -9,7 +9,7 @@
 <img src="https://skillicons.dev/icons?i=c,cpp,docker,bash,html,css,javascript,vuejs,github,neovim,ps,raspberrypi,arch,arduino" />
 
 ## 🖱️⌨️ My Most Interesting 42 Projects
-- [push_swap](https://github.com/DailyWind00/push_swap)
+- [push_swap](https://github.com/tuvosyl/push_swap)
     - A stack sorting algorithm
 - [cub3D](https://github.com/DailyWind00/Cub3D)
   - A Wolfenstein 3D like,make with [DailyWind](https://github.com/DailyWind00)
