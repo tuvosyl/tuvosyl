@@ -6,7 +6,7 @@
 
 
 ##
-<img src="https://skillicons.dev/icons?i=c,cpp,docker,bash,html,css,javascript,vuejs,github,neovim,ps,raspberrypi,arch,arduino" />
+<img src="https://skillicons.dev/icons?i=c,cpp,docker,bash,html,css,javascript,vuejs,github,ps,raspberrypi,arch,arduino,php,mysql" />
 
 ## 🖱️⌨️ My Most Interesting 42 Projects
 - [push_swap](https://github.com/tuvosyl/push_swap)
