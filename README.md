@@ -25,11 +25,6 @@
 - valentin.soltys@gmail.com
 - 07 81 50 19 81
 
-## Check on these profiles (they are better than me)
-
-- [DailyWind](https://github.com/DailyWind00)
-- [HaSYxD](https://github.com/HaSYxD)
-
  <!--
 **tuvosyl/tuvosyl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
